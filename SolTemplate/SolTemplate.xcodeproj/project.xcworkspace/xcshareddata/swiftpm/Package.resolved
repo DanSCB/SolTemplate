@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "solsticesdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DanSCB/SolsticeSDK",
+      "state" : {
+        "revision" : "9253c3932888bada56bdb6a31f3de167f71d778e",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
